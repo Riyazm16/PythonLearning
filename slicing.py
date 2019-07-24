@@ -1,4 +1,4 @@
-s="your awesome"
+s="       your awesome"
 
 s1="""you are
 the creator of
@@ -10,3 +10,4 @@ print(s[0:8])
 print(s[-3:-1])
 print(s[0:9:2])
 print(s[::-2])
+print(s.strip())
